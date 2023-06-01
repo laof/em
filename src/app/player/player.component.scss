@@ -1,0 +1,147 @@
+/* 带图片的按钮 */
+.player-btn {
+  background-image: url("../../assets/images/player.png");
+  opacity: 0.8;
+  filter: alpha(opacity=80);
+  transform: scale(0.7);
+}
+
+.player-btn:hover {
+  opacity: 1;
+  filter: alpha(opacity=100);
+}
+
+.btn-bar {
+  position: absolute;
+  display: inline-block;
+  left: 0;
+  right: 400px;
+  height: 55px;
+}
+
+.btn-box {
+  position: absolute;
+  top: 10px;
+  bottom: 10px;
+  left: 10px;
+  right: 10px;
+}
+
+:host {
+  bottom: 0;
+  width: 100%;
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+}
+
+.player-btn {
+  background-image: url("../../assets/images/player.png");
+  opacity: 0.8;
+  filter: alpha(opacity=80);
+  cursor: pointer;
+  user-select: none;
+}
+.player-btn:hover {
+  opacity: 1;
+  filter: alpha(opacity=100);
+}
+
+/* 控制按钮(上一首、播放、下一首)区域 */
+.con-btn {
+  display: flex;
+  flex: 1;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.btn-prev {
+  background-position: 0 -30px;
+  width: 19px;
+  height: 20px;
+}
+
+.btn-play {
+  width: 22px;
+  height: 29px;
+  transform: scale(0.5);
+}
+.btn-next {
+  background-position: 0 -52px;
+  width: 19px;
+  height: 20px;
+}
+.btn-order {
+  background-position: 0 -173px;
+  background-size: 450%;
+  width: 25px;
+  height: 25px;
+}
+.btn-order-single {
+  background-position: 0 -196px;
+}
+.btn-order-list {
+  background-position: 0 -173px;
+}
+.btn-order-random {
+  background-position: 0 -62px;
+  height: 18px;
+}
+
+input {
+  flex: 1;
+}
+
+/* 音量控制区域 */
+.vol {
+  width: 200px;
+  display: flex;
+  align-items: center;
+  display: none;
+}
+
+@media screen and (max-width: 960px) {
+  .vol {
+    display: none;
+  }
+}
+
+.kongzhiqi {
+  width: 100%;
+  display: flex;
+  flex: 2;
+  max-width: 1200px;
+  align-items: center;
+  margin: auto;
+}
+
+.fds-3 {
+  display: flex;
+  flex: 1;
+  margin: 0 12px;
+  align-items: center;
+
+  label {
+    margin: 0 6px;
+    font-size: 12px;
+    color: #7e7e7e;
+    width: 50px;
+    text-align: center;
+  }
+}
+
+.btn-quiet {
+  width: 26px;
+  height: 21px;
+  background-position: 0 -144px;
+}
+.btn-state-quiet {
+  background-position: 0 -182px;
+}
+
+/* 暂停状态 */
+.btn-state-paused {
+  background-position: -30px 0;
+  transform: scale(0.6);
+}
+

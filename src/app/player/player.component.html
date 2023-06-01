@@ -1,0 +1,41 @@
+<div class="fds-3">
+  <label class="aaa">00:00/00:00</label>
+  <input
+    (mousedown)="onmousedown($event)"
+    (mouseout)="onmouseout($event)"
+    class="ddddd"
+    value="0"
+    (change)="fdasfa($event.target)"
+    type="range"
+  />
+  <label class="bbb">00:00</label>
+</div>
+
+<div class="kongzhiqi">
+  <div class="vol">
+    <a
+      (click)="long()"
+      [ngClass]="{ 'btn-state-quiet': fde }"
+      class="player-btn btn-quiet"
+      title="静音"
+    ></a>
+    <input type="range" />
+  </div>
+  <div class="con-btn">
+    <span
+      (click)="switch()"
+      class="player-btn btn-order"
+      [ngClass]="btnClass"
+      title="循环控制"
+    ></span>
+    <span class="player-btn btn-prev" (click)="next(0)" title="上一首"></span>
+    <span
+      class="player-btn btn-play"
+      [ngClass]="{ 'btn-state-paused': isPalying }"
+      (click)="ok()"
+      title="暂停/继续"
+    ></span>
+    <span class="player-btn btn-next" (click)="next(1)" title="下一首"></span>
+    <span (click)="ddddd()" class="player-btn btn-order"></span>
+  </div>
+</div>

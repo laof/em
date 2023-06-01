@@ -1,0 +1,6 @@
+<h1>{{ name }}</h1>
+<div class="panel" #ref (mousedown)="onmousedown($event)">
+  <h6 #line [ngClass]="{ show: show }"></h6>
+  <ul #ul></ul>
+</div>
+<ng-content> </ng-content>
