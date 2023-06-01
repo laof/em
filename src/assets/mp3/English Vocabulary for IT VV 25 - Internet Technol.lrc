@@ -1,0 +1,155 @@
+[00:00.000] lrc : laof
+[00:01.466] you're watching video vocab by Business English pod.com <br> 您正在收看的是商务英语播客的词汇视频
+[00:09.566] this episode is the second <br> 这是第二集
+[00:11.733] of our two part <br> 我们的两部分
+[00:12.866] series on vocabulary related to internet technologies <br> 与互联网技术相关的词汇系列
+[00:17.900] in this lesson <br> 在本课中
+[00:19.400] we'll focus on the programming of websites <br> 我们将专注于网站的编程
+[00:22.466] and web based applications <br> 以及基于web的应用程序
+[00:30.500] the worldwide web <br> 万维网
+[00:31.766] has become an exciting and dynamic platform <br> 已经成为一个令人兴奋和充满活力的平台
+[00:34.533] for the delivery of innovative products and services <br> 提供创新的产品和服务
+[00:41.300] with web 2.0 <br> 有了web 2.0
+[00:42.966] computer programming has moved far beyond static HTML <br> 计算机编程已经远远超越了静态HTML
+[00:46.900] and even XML programming looks very <br> 甚至XML编程看起来也非常
+[00:50.100] different than it did just 10 years ago <br> 与10年前不同
+[00:56.100] web pages and services are dynamic and interactive <br> Web页面和服务是动态的和交互式的
+[01:00.566] this is possible <br> 这是可能的
+[01:01.900] because programmers now code in languages <br> 因为程序员现在用语言编码
+[01:04.966] such as Javascript <br> 比如Javascript
+[01:06.700] and use development tools such as Ajax <br> 并使用Ajax等开发工具
+[01:13.700] APIs have enabled <br> api已启用
+[01:15.400] the assembly of various pieces of software <br> 各种软件的组装
+[01:18.300] into interesting bundles <br> 变成有趣的捆
+[01:23.566] programmers now rely on extensive code libraries <br> 程序员现在依赖于大量的代码库
+[01:27.200] and object oriented languages <br> 以及面向对象语言
+[01:29.500] to create not only dynamic web pages <br> 创建的不仅仅是动态网页
+[01:32.600] but also web based applications <br> 还有基于web的应用程序
+[01:38.966] software no longer comes packaged in boxes <br> 软件不再是盒装的
+[01:42.300] instead it is now more common <br> 相反，它现在更常见了
+[01:44.700] to download apps onto your laptop <br> 将应用程序下载到笔记本电脑上
+[01:47.366] or mobile phone from an app store <br> 或者从应用商店买手机
+[01:58.600] dynamic <br> 动态
+[02:00.733] dynamic <br> 动态
+[02:04.333] websites that are dynamic <br> 动态网站
+[02:06.666] allow users to interact with them <br> 允许用户与它们交互
+[02:09.366] and their databases <br> 以及他们的数据库
+[02:13.900] whenever you book a ticket or buy something online <br> 当你在网上订票或购物时
+[02:17.933] you're interacting with a dynamic website <br> 你正在与一个动态的网站互动
+[02:24.166] news companies <br> 新闻公司
+[02:25.066] need dynamic websites that are constantly updated <br> 需要不断更新的动态网站
+[02:27.700] with latest news <br> 有最新消息
+[02:35.000] static <br> 静态
+[02:36.733] static <br> 静态
+[02:38.066] a static website <br> 静态网站
+[02:39.933] is one that simply displays information or content <br> 只是显示信息或内容吗
+[02:44.200] in a fixed format <br> 以固定的格式
+[02:47.533] dynamic websites are now preferred to static sites <br> 动态网站现在比静态网站更受欢迎
+[02:50.666] as they can update information automatically <br> 因为他们可以自动更新信息
+[02:59.566] HTML <br> 超文本标记语言
+[03:02.133] HTML <br> 超文本标记语言
+[03:05.133] HTML <br> 超文本标记语言
+[03:06.533] is a language used to define the structure and layout <br> 是否使用一种语言来定义结构和布局
+[03:11.166] of web pages <br> 网页的数目
+[03:15.333] HTML helps determine how information is displayed <br> HTML帮助确定如何显示信息
+[03:19.666] on a webpage <br> 在网页上
+[03:23.966] a knowledge of HTML is a basic requirement for <br> 具备HTML知识是一个基本的要求
+[03:27.000] web developers <br> web开发人员
+[03:28.366] because it forms the foundation of virtually <br> 因为它构成了虚拟的基础
+[03:30.933] every website <br> 每一个网站
+[03:38.200] XML <br> XML
+[03:40.466] XML <br> XML
+[03:42.966] XML is a customizable language <br> XML是一种可定制的语言
+[03:46.400] used to transport and store data <br> 用于传输和存储数据
+[03:51.066] XML is especially useful <br> XML特别有用
+[03:53.400] for updating services such as RSS feeds and blogs <br> 以更新RSS和博客等服务
+[04:00.766] XML was developed as a simple way of updating data <br> XML是作为一种更新数据的简单方法而开发的
+[04:03.933] automatically <br> 自动
+[04:11.733] to code <br> 代码
+[04:13.600] to code <br> 代码
+[04:16.200] the instructions in a computer program <br> 计算机程序中的指令
+[04:18.966] are referred to as code <br> 都被称为代码吗
+[04:23.533] when developers write a program they are coding <br> 当开发人员编写程序时，他们正在编码
+[04:30.100] it only took 12 hours to code the application <br> 编写应用程序只花了12个小时
+[04:33.166] but we spent another 36 hours fixing all the bugs <br> 但我们又花了36个小时来修复所有的漏洞
+[04:43.200] Javascript <br> Javascript
+[04:45.166] Javascript <br> Javascript
+[04:48.733] javascript is a language that programmers use <br> Javascript是程序员使用的一种语言
+[04:52.100] to make static pages dynamic <br> 使静态页面动态
+[04:57.166] for example Javascript can display a signup form <br> 例如，Javascript可以显示一个注册表单
+[05:01.533] and validate the input <br> 验证输入
+[05:06.500] javascript applications <br> javascript应用程序
+[05:08.300] allow non programmers to easily add <br> 允许非程序员轻松添加
+[05:10.866] new functionality to their websites <br> 他们网站的新功能
+[05:19.533] a jacks <br> 一个插孔
+[05:23.766] a jacks based on Javascript <br> 基于Javascript的jacks
+[05:27.166] enables a website to get data from a server <br> 允许网站从服务器获取数据
+[05:30.900] without reloading the whole webpage <br> 无需重新加载整个网页
+[05:35.300] this type of interface <br> 这种类型的接口
+[05:36.800] allows users to quickly inner data <br> 允许用户快速查看内部数据
+[05:39.766] such as their username and password on a website <br> 比如他们在网站上的用户名和密码
+[05:47.000] more and more developers are adopting Ajax <br> 越来越多的开发人员正在采用Ajax
+[05:49.466] to run applications <br> 运行应用程序
+[05:50.566] as it helps speed up the sharing of information <br> 因为它有助于加快信息的共享
+[05:53.300] on websites <br> 网站上
+[06:01.466] API API <br> API API
+[06:07.000] apis or application programming interfaces <br> api或应用程序编程接口
+[06:11.466] provide a way for different software or services <br> 为不同的软件或服务提供一种方式
+[06:15.066] to communicate with each other <br> 互相交流
+[06:19.133] developers use APIs to hook into or connect to <br> 开发人员使用api来钩入或连接
+[06:24.533] other programs and databases <br> 其他程序和数据库
+[06:26.733] to share information and functionality <br> 共享信息和功能
+[06:31.066] we use an API to connect our website <br> 我们使用API连接我们的网站
+[06:33.866] to an online payment processor <br> 给一个在线支付处理器
+[06:41.000] object oriented <br> 面向对象的
+[06:43.600] object oriented <br> 面向对象的
+[06:46.500] in an object oriented computer language <br> 在面向对象的计算机语言中
+[06:49.866] data <br> 数据
+[06:50.700] is wrapped up with a set of functions into packages <br> 是用一组函数包装成包的吗
+[06:56.966] object oriented programming <br> 面向对象程序设计
+[06:58.733] is typically faster than traditional programming <br> 通常比传统编程更快
+[07:01.500] and the software is much easier to maintain <br> 而且软件更容易维护
+[07:10.100] application apps <br> 应用程序应用
+[07:13.333] application apps <br> 应用程序应用
+[07:17.000] application refers <br> 应用程序是指
+[07:18.566] to any program or a piece of software <br> 任何程序或软件
+[07:23.600] the abbreviation app <br> 简称app
+[07:25.333] is commonly used to <br> 通常用于
+[07:26.933] talk about applications for mobile phones <br> 谈谈移动电话的应用程序
+[07:33.800] over 10 billion <br> 超过100亿
+[07:35.000] apps have been downloaded from Apple's popular <br> 应用程序已经从苹果流行的
+[07:37.666] App Store <br> 应用程序商店
+[07:47.866] now it's your turn to practice <br> 现在轮到你练习了
+[07:49.566] some of the words we have studied <br> 我们学过的一些单词
+[07:51.133] in this episode <br> 在这一集里
+[07:53.000] you'll hear a series of <br> 你会听到一系列的
+[07:54.300] sentences with a word replaced with a beep <br> 用哔声代替单词的句子
+[07:57.166] repeat the whole sentence but say the missing word <br> 重复整个句子，但说出遗漏的单词
+[08:00.966] for example if you hear <br> 例如，如果你听到
+[08:03.600] C++ is a popular object <br> c++是一种流行的对象
+[08:07.600] computer language <br> 计算机语言
+[08:10.600] you can say <br> 你可以说
+[08:12.933] C++ is a popular object oriented computer language <br> c++是一种流行的面向对象计算机语言
+[08:21.166] we'll play the correct answer after each question <br> 我们会在每个问题之后播放正确答案
+[08:25.300] ready let's give it a go <br> 准备好了，让我们试一试
+[08:31.200] video games can take programmers months to <br> 电子游戏程序员可能需要几个月的时间
+[08:40.466] answer video games can take programmers months to code <br> 电子游戏的编程可能要花费程序员数月的时间
+[08:49.733] behind a simple website are thousands of lines of <br> 一个简单的网站背后是成千上万行的
+[08:54.733] code <br> 代码
+[09:00.166] answer behind a simple website are <br> 一个简单的网站背后的答案是
+[09:02.700] thousands of lines of HTML code <br> 数千行HTML代码
+[09:10.200] we wanted a <br> 我们想要一个
+[09:12.733] website that lets our customers interact with us <br> 网站，让我们的客户与我们互动
+[09:20.566] answer we wanted a dynamic website <br> 答:我们想要一个动态的网站
+[09:23.566] that lets our customers interact with us <br> 这让我们的客户与我们互动
+[09:31.066] we use in <br> 我们用in
+[09:33.066] to synchronize data with our main database <br> 与主数据库同步数据
+[09:40.966] answer we use an API to synchronize data <br> 我们使用API来同步数据
+[09:44.466] with our main database <br> 用我们的主数据库
+[09:52.300] that's all for this episode of Video Vocab <br> 以上就是本期视频词汇的全部内容
+[09:55.533] the second in our two part series on <br> 我们的两部分系列的第二部分
+[09:58.333] internet technologies <br> 互联网技术
+[10:00.566] be sure to check out our website at www.video vocab.tv <br> 一定要查看我们的网站www.video vocab.tv
+[10:07.366] for more videos on Business English Vocabulary <br> 观看更多有关商务英语词汇的视频
+[10:11.900] thanks for watching and see you again soon <br> 感谢收看，下次再见
+[10:13.301] ~

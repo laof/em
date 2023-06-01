@@ -1,0 +1,176 @@
+[00:00.000] lrc : laof
+[00:01.366] you're watching video vocab by Business English pod.com <br> 您正在收看的是商务英语播客的词汇视频
+[00:10.600] in this video vocab lesson <br> 在这节视频词汇课中
+[00:13.100] we're going to take another look <br> 我们要再看一遍
+[00:15.100] at the internet technologies behind the concept <br> 在互联网技术背后的概念
+[00:18.600] of web 2.0 <br> web 2.0
+[00:24.600] with open source technologies developers can create <br> 使用开源技术，开发人员可以创建
+[00:28.300] improve and deploy new products and services quickly <br> 快速改进和部署新产品和服务
+[00:35.733] open source development platforms <br> 开源开发平台
+[00:37.733] are commonly based on what is called the lamp stack <br> 一般都是基于什么叫灯栈
+[00:45.066] this abbreviation comes from Linux <br> 这个缩写来自Linux
+[00:47.933] which is the Unix like operating system <br> 哪个是类似Unix的操作系统
+[00:50.866] the Apache web server <br> Apache web服务器
+[00:52.500] my s Q L database systems and P H P <br> 我的ql数据库系统和hp
+[00:56.666] the computer language behind many of the applications <br> 许多应用程序背后的计算机语言
+[01:03.733] this lamp stack <br> 这个灯架
+[01:05.066] provides the architecture for developers <br> 为开发人员提供体系结构
+[01:07.566] to create flexible and responsive software <br> 创建灵活且响应迅速的软件
+[01:13.566] and with cloud computing <br> 有了云计算
+[01:15.366] there come great changes to the infrastructure <br> 基础设施发生了巨大的变化
+[01:18.100] on which these programs run <br> 这些程序在其上运行
+[01:24.533] cloud computing allows developers to <br> 云计算允许开发人员
+[01:27.000] overcome problems related to bandwidth <br> 克服与带宽相关的问题
+[01:29.933] and allows for easier scaling of software and services <br> 并且可以更容易地扩展软件和服务
+[01:41.300] open source <br> 开源
+[01:43.600] open source <br> 开源
+[01:47.766] open source software is freely available <br> 开源软件是免费提供的
+[01:50.866] and can be used or modified as <br> 并且可以使用或修改为
+[01:53.900] any user cease fit <br> 任何用户停止使用
+[01:58.166] the open source philosophy <br> 开源哲学
+[02:00.166] focuses on the benefits that come from users <br> 关注来自用户的好处
+[02:03.566] collaborating to improve software <br> 协作改进软件
+[02:08.533] open source technologies are being adopted by many <br> 许多人正在采用开源技术
+[02:11.200] leading corporations to run critical <br> 领导企业经营至关重要
+[02:13.366] business applications <br> 业务应用程序
+[02:14.966] such as databases and communication tools <br> 比如数据库和通讯工具
+[02:22.866] developers <br> 开发人员
+[02:24.933] to develop <br> 开发
+[02:27.666] a developer is a person or organization <br> 开发人员是一个人或组织
+[02:31.400] that creates software <br> 这就产生了软件
+[02:35.866] developing software includes design <br> 软件开发包括设计
+[02:39.100] programming and testing <br> 编程和测试
+[02:43.266] many developers choose to work on open source projects <br> 许多开发人员选择在开源项目上工作
+[02:46.933] as it provides the opportunity to collaborate <br> 因为它提供了合作的机会
+[02:49.133] on projects <br> 项目
+[02:57.200] platform <br> 平台
+[02:59.133] platform <br> 平台
+[03:01.733] the foundation for running software <br> 运行软件的基础
+[03:04.333] is called a platform <br> 叫做平台
+[03:08.500] operating systems such as Windows <br> 操作系统，如Windows
+[03:11.133] and Mac OS are common computer platforms <br> 和Mac OS是常见的计算机平台
+[03:17.466] Google is trying hard <br> 谷歌正在努力
+[03:18.533] to compete in the mobile phone market with its <br> 要在手机市场上与之竞争
+[03:20.900] Android platform <br> Android平台
+[03:29.266] Lamp Stack <br> Lamp堆栈
+[03:31.533] Lamp Stack <br> Lamp堆栈
+[03:33.900] the lamp stack is a popular software platform <br> 灯栈是一个流行的软件平台
+[03:37.100] for developing websites and web based applications <br> 用于开发网站和基于web的应用程序
+[03:42.366] lamp is an acronym for Linux Apache <br> lamp是Linux Apache的缩写
+[03:47.200] Mysql and PHP <br> Mysql和PHP
+[03:52.766] the Lamp Stack <br> 灯堆
+[03:53.733] provides developers with a very stable platform <br> 为开发人员提供一个非常稳定的平台
+[03:56.500] to develop new websites and services <br> 开发新的网站和服务
+[04:04.933] Linux <br> Linux
+[04:06.700] Linux <br> Linux
+[04:10.266] Linux is a family of open source operating systems <br> Linux是一个开源操作系统家族
+[04:14.466] that forms the basis of mini web based applications <br> 这构成了基于web的迷你应用程序的基础
+[04:19.866] the 10 biggest supercomputers in the world <br> 世界上最大的10台超级计算机
+[04:22.066] run on Linux operating systems <br> 在Linux操作系统上运行
+[04:28.800] Apache <br> Apache
+[04:30.666] Apache <br> Apache
+[04:32.700] Apache is free and open source web server software <br> Apache是免费的开源web服务器软件
+[04:38.333] About 60% of all websites in the world <br> 世界上大约60%的网站
+[04:42.066] are run on Apache <br> 都运行在Apache上
+[04:43.966] making it by far the most popular <br> 这是目前为止最受欢迎的
+[04:47.900] although it is not the fastest web server <br> 虽然它不是最快的web服务器
+[04:50.500] Apache performs very well <br> Apache的性能非常好
+[04:52.366] and has achieved great popularity <br> 并取得了很大的知名度
+[04:58.933] my SQL <br> 我的SQL
+[05:00.666] my SQL <br> 我的SQL
+[05:03.366] my SQL is an open source database management system <br> my SQL是一个开源的数据库管理系统
+[05:08.400] used in some of the world's <br> 用于世界上的一些
+[05:10.300] biggest and most popular websites <br> 最大和最受欢迎的网站
+[05:14.266] Facebook and Wikipedia <br> Facebook和维基百科
+[05:15.866] both use my SQL databases to run their sites <br> 都使用我的SQL数据库来运行他们的网站
+[05:24.000] PHP PHP <br> PHP PHP
+[05:27.800] the programming language called PHP <br> 叫做PHP的编程语言
+[05:31.333] is used to create dynamic web pages <br> 是用来创建动态网页
+[05:35.300] PHP works hand in hand with Apache <br> PHP与Apache携手工作
+[05:39.100] and my SQL to display data on the web <br> 以及在网络上显示数据的SQL
+[05:44.600] 75 percent of all web servers a programmed in PHP <br> 75%的web服务器是用PHP编程的
+[05:53.500] architecture architecture <br> 建筑结构
+[05:57.133] the architecture of a computer or piece of software <br> 计算机或软件的结构
+[06:01.133] is like the plans or designs of a building <br> 是建筑的规划或设计吗
+[06:04.900] it is the blueprint for how the system is built <br> 它是如何构建系统的蓝图
+[06:08.700] how it functions and how it connects to other systems <br> 它是如何运作的，它是如何与其他系统连接的
+[06:14.400] the basic <br> 的基本
+[06:15.066] architecture of personal computers has changed <br> 个人电脑的结构已经改变
+[06:17.766] little in the last 20 years <br> 在过去的20年里很少
+[06:24.866] infrastructure <br> 基础设施
+[06:26.800] infrastructure <br> 基础设施
+[06:29.466] computers servers <br> 电脑服务器
+[06:31.400] and their connections together form <br> 它们之间的联系形成了
+[06:33.933] what is called infrastructure <br> 所谓的基础设施
+[06:38.566] infrastructure forms the highway <br> 基础设施形成高速公路
+[06:40.966] along which data flows with an accompany <br> 数据与陪伴一起流动
+[06:44.066] or around the world <br> 或者环游世界
+[06:47.300] my company has just invested $20 million <br> 我的公司刚刚投资了两千万美元
+[06:50.533] to upgrade its entire network infrastructure <br> 升级整个网络基础设施
+[06:58.400] cloud computing <br> 云计算
+[07:00.366] cloud computing <br> 云计算
+[07:03.166] when we compute in the cloud <br> 当我们在云端计算时
+[07:05.800] we are using web based applications or infrastructure <br> 我们正在使用基于web的应用程序或基础设施
+[07:10.566] with cloud computing <br> 有了云计算
+[07:12.300] we access software and data online <br> 我们在网上访问软件和数据
+[07:15.933] rather than from program stored on a PC <br> 而不是从存储在PC上的程序
+[07:20.366] cloud computing applications such as salesforce.com <br> 云计算应用，如salesforce.com
+[07:24.566] allow users to access data regardless of location <br> 允许用户访问数据，无论位置如何
+[07:32.933] bandwith <br> 频宽
+[07:34.766] bandwith <br> 频宽
+[07:36.700] bandwith is the amount of data <br> 带宽是指数据量
+[07:39.166] that can be transmitted in a fixed amount of time <br> 可以在固定的时间内传输
+[07:45.366] higher bandwidth <br> 更高的带宽
+[07:46.766] means more information can travel at faster speeds <br> 意味着更多的信息可以以更快的速度传播
+[07:50.733] over the connection <br> 通过连接
+[07:53.800] internet service providers need to manage bandwidth <br> 互联网服务提供商需要管理带宽
+[07:56.666] carefully to ensure resources are shared equally <br> 谨慎地确保资源被平等地分享
+[07:59.700] by different users <br> 不同的用户
+[08:07.100] to scale <br> 规模
+[08:09.200] to scale <br> 规模
+[08:11.966] when we expand the use of hardware or software <br> 当我们扩展使用硬件或软件时
+[08:15.933] we are scaling it <br> 我们在缩放它
+[08:18.666] if a tool or program is scalable <br> 如果一个工具或程序是可伸缩的
+[08:21.733] it means it can handle an increase in activity <br> 这意味着它可以处理活动的增加
+[08:26.733] we asked the developer <br> 我们问了开发者
+[08:28.333] to build a platform that would allow us to scale our <br> 建立一个平台，让我们可以扩展我们的
+[08:31.200] service as we grow <br> 服务伴随我们成长
+[08:41.100] now it's your turn to practice <br> 现在轮到你练习了
+[08:42.800] some of the words we have studied <br> 我们学过的一些单词
+[08:44.366] in this episode <br> 在这一集里
+[08:45.666] you'll hear a series of sentences with <br> 你会听到一系列的句子
+[08:47.733] a word replaced with a beep <br> 一个被哔哔声取代的单词
+[08:49.866] repeat the whole sentence but say the missing word <br> 重复整个句子，但说出遗漏的单词
+[08:53.500] for example if you hear <br> 例如，如果你听到
+[08:55.966] many developers rely on the four components of the <br> 许多开发人员依赖于的四个组件
+[09:00.133] stack because they are simple to use and deploy <br> 堆栈，因为它们易于使用和部署
+[09:08.366] you can say <br> 你可以说
+[09:09.700] many <br> 许多
+[09:10.000] developers rely on the four components of the lamp <br> 开发人员依赖于灯的四个组件
+[09:13.166] stack because they are simple to use and deploy <br> 堆栈，因为它们易于使用和部署
+[09:22.500] we'll play the correct answer after each question ready <br> 每个问题准备好后，我们将播放正确答案
+[09:26.800] let's give it a go <br> 让我们试一试
+[09:32.500] anyone <br> 任何人
+[09:33.000] with some programming ability can make improvements to <br> 具备一定的编程能力可以对其进行改进
+[09:37.333] source software <br> 源码软件
+[09:43.733] answer anyone <br> 回答的人
+[09:45.466] with some programming ability can make improvements <br> 具备一定的编程能力可以进行改进
+[09:48.000] to open source software <br> 开源软件
+[09:54.900] like most companies we rely on <br> 就像我们所依赖的大多数公司一样
+[09:58.166] web servers to deliver our internet services <br> 提供互联网服务的网络服务器
+[10:05.166] answer like most companies <br> 像大多数公司一样回答
+[10:07.533] we rely on Apache <br> 我们依赖Apache
+[10:08.866] web servers to deliver our internet services <br> 提供互联网服务的网络服务器
+[10:16.200] I can work from any computer because I rely on <br> 我可以在任何电脑上工作，因为我依靠
+[10:20.333] computing <br> 计算
+[10:25.400] answer I can work from <br> 答案我可以从
+[10:27.566] any computer because I rely on cloud computing <br> 任何电脑，因为我依赖云计算
+[10:36.066] downloading movies uses up a lot of <br> 下载电影会消耗大量的内存
+[10:43.300] answer downloading movies uses up a lot of bandwidth <br> 答:下载电影会占用很多带宽
+[10:53.366] that's all for this episode of Video Vocab <br> 以上就是本期视频词汇的全部内容
+[10:56.766] the first in our two part series on <br> 这是我们关于
+[10:59.333] internet technologies <br> 互联网技术
+[11:02.933] be sure to check out our website at www.video vocab.tv <br> 一定要查看我们的网站www.video vocab.tv
+[11:08.700] for more videos on Business English Vocabulary <br> 观看更多有关商务英语词汇的视频
+[11:12.600] thanks for watching and see you again soon <br> 感谢收看，下次再见
+[11:12.601] ~
