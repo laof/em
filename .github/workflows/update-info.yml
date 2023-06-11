@@ -1,4 +1,4 @@
-name: update json
+name: update data.json
 
 on: push
 permissions:
@@ -6,7 +6,7 @@ permissions:
 
 jobs:
   build:
-    name: update data info files
+    name: update data.json
     runs-on: ubuntu-latest
     if: "contains(github.event.head_commit.message, 'cicd:')"
     steps:
