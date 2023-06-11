@@ -29,6 +29,6 @@ jobs:
         with:
           branch: main
           folder: output
-          target-folder:data
+          target-folder: data
           # clean-exclude: true
           commit-message: update json file by action
