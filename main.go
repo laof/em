@@ -71,6 +71,7 @@ func save(dir, filename string) {
 
 	var output = "output"
 	os.Mkdir(output, 0755)
+	fmt.Println(string(data))
 	os.WriteFile(output+"/"+filename, data, 0644)
 
 }
