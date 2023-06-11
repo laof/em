@@ -37,7 +37,7 @@ jobs:
       uses: actions/download-artifact@v3
       with:
         name: site
-        path: dist
+        path: output
         
     - name: Install rsync 📚
       run: |
