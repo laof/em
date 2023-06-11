@@ -15,12 +15,40 @@ jobs:
       - run: go version
       - run: go run main.go
 
-      - uses: JamesIves/github-pages-deploy-action@v4.4.2
+    
+      - name: Upload Artifacts 🔺 # The project is then uploaded as an artifact named 'site'.
+        uses: actions/upload-artifact@v3
         with:
-          branch: main
-          folder: output
-          target: json
-          clean: false
-          force: false
-          # clean-exclude: true
-          commit-message: update json file by action
+          name: site
+          path: output
+          retention-days: 1 # <= 这里可以设置保留天数1
+
+
+  deploy:
+    concurrency: ci-${{ github.ref }}
+    needs: [build] # The second job must depend on the first one to complete before running and uses ubuntu-latest instead of windows.
+    runs-on: ubuntu-latest
+    container: node:16.16.0
+    steps:
+    - name: Checkout 🛎️
+      uses: actions/checkout@v3
+
+    - name: Download Artifacts 🔻 # The built project is downloaded into the 'site' folder.
+      uses: actions/download-artifact@v3
+      with:
+        name: site
+        path: dist
+        
+    - name: Install rsync 📚
+      run: |
+        apt-get update && apt-get install -y rsync
+
+    - uses: JamesIves/github-pages-deploy-action@v4.4.2
+      with:
+        branch: main
+        folder: output
+        target: json
+        clean: false
+        force: false
+        # clean-exclude: true
+        commit-message: update json file by action
