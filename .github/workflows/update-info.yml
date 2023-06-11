@@ -25,10 +25,6 @@ jobs:
           path: output
           retention-days: 1 # <= 这里可以设置保留天数1
 
-      - name: Install rsync 📚
-        run: |
-          apt-get update && apt-get install -y rsync
-
       - uses: JamesIves/github-pages-deploy-action@v4.4.2
         with:
           branch: main
