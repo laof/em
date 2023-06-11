@@ -19,6 +19,7 @@ jobs:
         with:
           branch: main
           folder: output
+          target: json
           clean: false
           force: false
           # clean-exclude: true
